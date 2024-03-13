@@ -1,5 +1,5 @@
 ### Eye See You: Unveiling Facial Attributes with Convolutional Neural Networks.
-Lee Mabhena and Sike Ogieva   
+##### Lee Mabhena and Sike Ogieva   
 ---
 Facial attribute recognition is an important deep learning problem with far reaching applications in human computer interaction, security and research. It is crucial that computers improve at seeing and recognising various pieces of humanity.
 In this project, we build a convolutional neural network capable of the robust classification of facial attributes– starting with a few features like age, presented gender, beards, facial expressions, headwear, eyeglasses, etc. Yet, our model will be designed to scale and eventually incorporate a wider range of feature detection in the future.
