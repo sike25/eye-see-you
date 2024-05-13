@@ -8,7 +8,7 @@ Sike and Lee
 
 Facial attribute recognition is a significant deep learning challenge with extensive applications in human-computer interaction, security, and research. In this project, we build and train neural networks using the classic CelebA dataset to perform facial attribute recognition. This module employs transfer learning from the ImageNet model, and the results can be visualized using a Gradio script.
 
-<img src="" alt="Gradio file execution of file"/>
+<img src="./gif-app-walkthrough.gif" alt="Gradio file execution of file"/>
 
 ## How to Run the Code
 
