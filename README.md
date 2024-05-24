@@ -2,8 +2,6 @@
 ### Unveiling Facial Attributes with Convolutional Neural Networks
 #### Authors: Lee Mabhena and Sike Ogieva
 
----
-
 Facial attribute recognition is a significant deep learning challenge with extensive applications in human-computer interaction, security, and research. Recognizing various human features accurately is crucial for enhancing computer vision.
 
 ## Project Overview
