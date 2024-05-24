@@ -1,6 +1,5 @@
 # Visage
 ### Unveiling Facial Attributes with Convolutional Neural Networks
-
 #### Authors: Lee Mabhena and Sike Ogieva
 
 ---
